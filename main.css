@@ -12,7 +12,7 @@ body {
 
 /****** Header Styles ******/
 .homepage-hero {
-    background-image: url(file:///Users/kabvaj/Desktop/jubilee-austen/img/full-background.png);
+    background-image: url(full-background.png);
     background-color: #F9EFEF;
     background-size: cover;
     background-position: center;
